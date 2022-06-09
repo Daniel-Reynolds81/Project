@@ -1,0 +1,41 @@
+.container{
+    background-color: #000;
+    height: 885px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.display{
+    background-color: #fff;
+    height: 196px;
+    width: 496px;
+    margin: 2px;
+    text-align: right;
+    line-height: 196px;
+    font-size: 75px;
+}
+
+.button{
+    background-color: #fff;
+    height: 135px;
+    width: 124px;
+    margin: 1px;
+    text-align: center;
+    text-justify: auto;
+    font-size: 50px;
+    cursor: pointer;
+    
+
+}
+
+.row{
+    width: 500px;
+    display: flex;
+}
+
+#equals{
+    background-color: #3fdb42;
+}
